@@ -9,31 +9,24 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
 - **Software**: Tableau, Power BI, Ansys Maxwell, Siemens Magnet
 - **Others**: Docker, AWS, PySpark, Git, MySQL.
 
+### Experience
+- Research Assistant (Intern), CanmetENERGY (Research Lab of Natural Resource Canada), Varennes, Canada.
+- Course Lecturer, McGill University, Montreal, Canada
+- Research Assistant, McGill University, Montreal, Canada
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+1.	Khan, A., Ghorbanian, V., & Lowther, D. (2019). “DEEP LEARNING FOR MAGNETIC FIELD ESTIMATION”. IEEE Transactions on Magnetics, vol. 55, no. 6, pp. 1-4, June 2019. 
+2.	Khan, A., Mohammadi, M.H., Ghorbanian, V., & Lowther, D. (2019). “EFFICIENCY MAP PREDICTION OF MOTOR DRIVES USING DEEP LEARNING”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020. 
+3.	Khan, A., Midha, C., & Lowther, D. (2019). “SEQUENCE BASED ENVIRONMENT FOR TOPOLOGY OPTIMIZATION”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020. 
+4.	Ghorbanian, V., Khan, A., & Lowther, D. (2019). “LOCAL OR GLOBAL NEURAL NETWORKS FOR ENHANCED MODELING OF MOTOR DRIVES?”. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Interests
 
-**Bold** and _Italic_ and `Code` text
+- Machine Learning
+- Reinforcement Learning
+- Reading about latest advancements in technology, open-source programming, behavioral finance.
+- Watching, discussing & playing soccer (Vice-captain of soccer team during Bachelors). 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arbi11/arbi11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
