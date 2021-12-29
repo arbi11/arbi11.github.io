@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Arbaaz Khan
 
-You can use the [editor on GitHub](https://github.com/arbi11/arbi11.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Motivated and creative Data Scientist with a PhD from McGill University. Seeking opportunities in the field of Machine Learning and Data Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+- **Programming**: Python, Matlab, R, Java, C++, HTML, JavaScript
+  - **ML/ DS experience**: Tensorflow, Pytorch, sk-learn, pandas
+- **Software**: Tableau, Power BI, Ansys Maxwell, Siemens Magnet
+- **Others**: Docker, AWS, PySpark, Git, MySQL.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
