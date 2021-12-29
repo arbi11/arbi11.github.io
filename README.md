@@ -18,7 +18,9 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
 
 #### 1. Deep Learning For Magnetic Field Estimation - IEEE TransMag
 <details>
+  
   <summary>More information & resources</summary>
+  
   citation:
   
   ```markdown
@@ -28,11 +30,14 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
   ```
   1. [Paper Link](https://ieeexplore.ieee.org/document/8661767)
   2. [Code Link]() - TO-DO
+  
 </details>
 
 #### 2. Efficiency Map Prediction Of Motor Drives Using Deep Learning - IEEE TransMag
 <details>
+  
   <summary>More information & resources</summary>
+  
   citation:
   
   ```markdown
@@ -41,11 +46,14 @@ Khan, A., Mohammadi, M.H., Ghorbanian, V., & Lowther, D. (2019). “EFFICIENCY M
   ```
   1. [Paper Link](https://ieeexplore.ieee.org/document/8961095)
   2. [Code Link]() - TO-DO
+  
 </details>
 
 #### 3. Sequence Based Environment For Topology Optimization - IEEE TransMag - [Code Link](https://github.com/arbi11/Sequence_based_TO)
 <details>
+  
   <summary>More information & resources</summary>
+  
   citation:
   
   ```markdown
@@ -54,6 +62,7 @@ Khan, A., Midha, C., & Lowther, D. (2019). “SEQUENCE BASED ENVIRONMENT FOR TOP
   ```
   1. [Paper Link](https://ieeexplore.ieee.org/document/8960651)
   2. [Code Link](https://github.com/arbi11/Sequence_based_TO)
+
 </details>
 
 
