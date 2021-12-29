@@ -16,15 +16,45 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
 
 ### Publications
 
-1.	Khan, A., Ghorbanian, V., & Lowther, D. (2019). “DEEP LEARNING FOR MAGNETIC FIELD ESTIMATION”. IEEE Transactions on Magnetics, vol. 55, no. 6, pp. 1-4, June 2019. 
-[Paper Link](https://ieeexplore.ieee.org/document/8661767)
-[Code Link](https://ieeexplore.ieee.org/document/8661767)
-3.	Khan, A., Mohammadi, M.H., Ghorbanian, V., & Lowther, D. (2019). “EFFICIENCY MAP PREDICTION OF MOTOR DRIVES USING DEEP LEARNING”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020. 
-[Paper Link](https://ieeexplore.ieee.org/document/8961095)
-5.	Khan, A., Midha, C., & Lowther, D. (2019). “SEQUENCE BASED ENVIRONMENT FOR TOPOLOGY OPTIMIZATION”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020. 
-[Paper Link](https://ieeexplore.ieee.org/document/8960651)
-[Code Link](https://github.com/arbi11/Sequence_based_TO)
-6.	Ghorbanian, V., Khan, A., & Lowther, D. (2019). “LOCAL OR GLOBAL NEURAL NETWORKS FOR ENHANCED MODELING OF MOTOR DRIVES?”. 
+#### 1. Deep Learning For Magnetic Field Estimation - IEEE TransMag
+<details>
+  <summary>More information & resources</summary>
+  citation:
+  
+  ```markdown
+  
+  Khan, A., Ghorbanian, V., & Lowther, D. (2019). “DEEP LEARNING FOR MAGNETIC FIELD ESTIMATION”. IEEE Transactions on Magnetics, vol. 55, no. 6, pp. 1-4, June 2019.
+  
+  ```
+  1. [Paper Link](https://ieeexplore.ieee.org/document/8661767)
+  2. [Code Link](https://ieeexplore.ieee.org/document/8661767)
+</details>
+
+#### 2. Efficiency Map Prediction Of Motor Drives Using Deep Learning - IEEE TransMag
+<details>
+  <summary>More information & resources</summary>
+  citation:
+  
+  ```markdown
+  
+Khan, A., Mohammadi, M.H., Ghorbanian, V., & Lowther, D. (2019). “EFFICIENCY MAP PREDICTION OF MOTOR DRIVES USING DEEP LEARNING”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020.  
+  ```
+  1. [Paper Link](https://ieeexplore.ieee.org/document/8961095)
+  2. [Code Link]()
+</details>
+
+#### 3. Sequence Based Environment For Topology Optimization - IEEE TransMag - [Code Link](https://github.com/arbi11/Sequence_based_TO)
+<details>
+  <summary>More information & resources</summary>
+  citation:
+  
+  ```markdown
+  
+Khan, A., Midha, C., & Lowther, D. (2019). “SEQUENCE BASED ENVIRONMENT FOR TOPOLOGY OPTIMIZATION”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020. 
+  ```
+  1. [Paper Link](https://ieeexplore.ieee.org/document/8960651)
+  2. [Code Link](https://github.com/arbi11/Sequence_based_TO)
+</details>
 
 
 ### Interests
