@@ -27,7 +27,7 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
   
   ```
   1. [Paper Link](https://ieeexplore.ieee.org/document/8661767)
-  2. [Code Link](https://ieeexplore.ieee.org/document/8661767)
+  2. [Code Link]() - TO-DO
 </details>
 
 #### 2. Efficiency Map Prediction Of Motor Drives Using Deep Learning - IEEE TransMag
@@ -40,7 +40,7 @@ Motivated and creative Data Scientist with a PhD from McGill University. Seeking
 Khan, A., Mohammadi, M.H., Ghorbanian, V., & Lowther, D. (2019). “EFFICIENCY MAP PREDICTION OF MOTOR DRIVES USING DEEP LEARNING”. IEEE Transactions on Magnetics, vol. 56, no. 3, pp. 1-4, March 2020.  
   ```
   1. [Paper Link](https://ieeexplore.ieee.org/document/8961095)
-  2. [Code Link]()
+  2. [Code Link]() - TO-DO
 </details>
 
 #### 3. Sequence Based Environment For Topology Optimization - IEEE TransMag - [Code Link](https://github.com/arbi11/Sequence_based_TO)
