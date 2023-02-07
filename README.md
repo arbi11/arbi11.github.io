@@ -74,3 +74,6 @@ Khan, A., Midha, C., & Lowther, D. (2019). “SEQUENCE BASED ENVIRONMENT FOR TOP
 - Watching, discussing & playing soccer (Vice-captain of soccer team during Bachelors). 
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="100"/>
+</div>
